@@ -17,7 +17,7 @@ This document provides a high-level overview for installing OpenCore on your sys
 | GPU | Intel UHD Graphics 620 |
 | Storage | Apacer 512GB |
 | RAM | 12 GB |
-| Audio | ALC289 |
+| Audio | ALC298 |
 | Wireless | Intel Wireless |
 | Keyboard | PS2 |
 | Touchpad | Synaptics |
